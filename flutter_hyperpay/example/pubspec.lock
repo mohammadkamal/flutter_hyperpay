@@ -82,6 +82,24 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
+  flutter_hyperpay_android:
+    dependency: transitive
+    description:
+      path: flutter_hyperpay_android
+      ref: HEAD
+      resolved-ref: ec67bc93d648ec9ccd00616995c54f6c068d9705
+      url: "https://github.com/mohammadkamal/flutter_hyperpay"
+    source: git
+    version: "0.0.1"
+  flutter_hyperpay_ios:
+    dependency: transitive
+    description:
+      path: flutter_hyperpay_ios
+      ref: HEAD
+      resolved-ref: ec67bc93d648ec9ccd00616995c54f6c068d9705
+      url: "https://github.com/mohammadkamal/flutter_hyperpay"
+    source: git
+    version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
     description:
